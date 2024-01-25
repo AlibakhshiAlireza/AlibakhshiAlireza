@@ -1,10 +1,5 @@
 <h1 align="Left">Hi 👋, I'm Alireza Alibakhshi</h1>
-<p align="left">I am a graduate student majoring in Industrial Engineering at The Sharif University of Technology in Tehran, Iran, and I am enthusiastic about Optimization and Data Science.I am eager to learn more about deep learning and neural networks and use it efficiently in my research. I excel at python and use it for research and algorithm development. Most of my studies were data-oriented in supply chain management, healthcare systems, and predictive process monitoring.</p>
-
-- 📄 I’m currently working on **Next Activity Prediction in Business Processes: A Hybrid Approach with AMCNN and Genetic Optimization**
-
-- 📄 I’ve recently finished **Home health-care routing under uncertainty: Application of continuous phase-type distributions**
-
+<p align="left">I am a graduate student majoring in Industrial Engineering at The Sharif University of Technology in Tehran, Iran, and I am enthusiastic about Optimization and Data Science. I excel at python and use it for research and algorithm development. Most of my studies were data-oriented in supply chain management, healthcare systems, and predictive process monitoring.</p>
 <p align="left">
 </p>
 
